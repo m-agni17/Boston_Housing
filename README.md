@@ -22,9 +22,13 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
             
 Models Used:(Model used-accuracy)
         1)Descision Tree Regressor-81%
+        
         2)Random Forest Regressor-86%
+        
         3)Bagged Regressor-84%
+        
         4)Gradient Boosting(without python libraries)-72%
+        
         5)Gradient Boosting(with python libraries)-78%
  
 From this project I've learnt a lot about the regression techniques used in machine learning.
